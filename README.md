@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Guan
-- 👀 I’m interested in Preventive Medicine, causual inference, economic analysis
-- 🌱 I’m currently learning economic theory and methods
+- 👋 Hi, I’m Guan Wang, a PhD candidate in Health Economics in U of T.
+- 👀 I’m interested in Preventive Medicine, causual inference, economic evaluation.
+- 🌱 I’m currently learning LLM, ML and economic evaluation. 
 - 💞️ I’m looking to collaborate on academic scholars and industry managers
 - 📫 How to reach me: jhwgpwb@gmail.com
 - 😄 Pronouns: ...
